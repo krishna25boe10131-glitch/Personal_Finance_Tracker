@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "amount": 50000,
+    "category": "Food",
+    "description": "Monthly groceries",
+    "type": "expense",
+    "date": "2026-03-28 10:30:00"
+  },
+  {
+    "id": 2,
+    "amount": 75000,
+    "category": "Entertainment",
+    "description": "Movie tickets and games",
+    "type": "expense",
+    "date": "2026-03-29 15:45:00"
+  },
+  {
+    "id": 3,
+    "amount": 100000,
+    "category": "Utilities",
+    "description": "Electricity and internet",
+    "type": "expense",
+    "date": "2026-03-29 18:20:00"
+  },
+  {
+    "id": 4,
+    "amount": 200000,
+    "category": "Other",
+    "description": "Freelance project payment",
+    "type": "income",
+    "date": "2026-03-30 12:00:00"
+  },
+  {
+    "id": 5,
+    "amount": 25000.0,
+    "category": "Education",
+    "description": "This transaction is done for educational purpose",
+    "type": "income",
+    "date": "2026-03-31 21:58:29"
+  },
+  {
+    "id": 6,
+    "amount": 23000.0,
+    "category": "Utilities",
+    "description": "Utilities",
+    "type": "expense",
+    "date": "2026-03-31 22:17:32"
+  }
+]
